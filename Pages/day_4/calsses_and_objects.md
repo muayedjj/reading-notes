@@ -13,7 +13,7 @@ The **`__init__()`** function, is a special function that is called when the cla
 
 <br/>
 
-# Recursive Functions in Python
+# **Recursive Functions in Python**
 
 ### **A recursive function** is *a function defined in terms of itself via self-referential expressions.* [2]
 
@@ -47,13 +47,11 @@ Python doesn’t have support for tail-call elimination. As a result, we can cau
         import sys
         sys.getrecursionlimit()
 
+-
+
 ![stack](./stack.9c4ba62929cf.gif)
 
 
-
-<br/>
-
-<br/>
 
 <br/>
 
