@@ -13,7 +13,7 @@ The **`__init__()`** function, is a special function that is called when the cla
 
 <br/>
 
-# Recursive Functions in Python
+# **Recursive Functions in Python**
 
 ### **A recursive function** is *a function defined in terms of itself via self-referential expressions.* [2]
 
@@ -32,7 +32,7 @@ In order to maintain state during recursion you have to either:
 
 Note that ***threading*** a state through each recursive call means *passing the updated current state to each recursive call as arguments*
 
-![threading](https://robocrop.realpython.net/?url=https%3A//files.realpython.com/media/state_3.3e8a68c4fde5.png&w=1293&sig=365778ead2c38e2a10b95f53f3fc2f0f2e2bbce0)
+![threading](./threading.png)
 
 <br/>
 
@@ -47,13 +47,11 @@ Python doesn’t have support for tail-call elimination. As a result, we can cau
         import sys
         sys.getrecursionlimit()
 
+-
+
 ![stack](./stack.9c4ba62929cf.gif)
 
 
-
-<br/>
-
-<br/>
 
 <br/>
 
