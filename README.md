@@ -24,3 +24,4 @@
 | Day 1 - May 29th. 2022| Big **(O)** Notation, Python Names & Values | https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/ <br/> https://www.youtube.com/watch?v=_AEJHKGk9ns | [more](./Pages/Day1.md)] |
 | 31-5-2022 | Tests, Recursion, Main script | https://canvas.instructure.com/courses/4839248/discussion_topics/14886137 | [more](./Pages/Day%202/reading.md) |
 | June 5th. 2020 | Files & Exceptions | https://canvas.instructure.com/courses/4839248/discussion_topics/14886136 | [more](./Pages/Day%203/D_3_Files_and_Exceptions) |
+| Day 4 - June 7th. 2022 | Classes, Objects & Recursion | https://canvas.instructure.com/courses/4839248/discussion_topics/14886144 | [more](./Pages/day_4/calsses_and_objects.md) |
