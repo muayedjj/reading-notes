@@ -32,7 +32,7 @@ In order to maintain state during recursion you have to either:
 
 Note that ***threading*** a state through each recursive call means *passing the updated current state to each recursive call as arguments*
 
-![threading](./threading.jpg)
+![threading](./threading.png)
 
 <br/>
 
