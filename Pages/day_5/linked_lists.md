@@ -38,7 +38,7 @@ _Denoted as **n**_, input Size refers to the size of the parameter values that a
 
 ![Orders of Growth](./orders_of_growth.png)
 
-![Orders of Growth Plot](./LogPlot.png)
+![Orders of Growth Plot](./log_plot.png)
 
 Notes:
 - The fibonacci sequence is a popular case for exponential complexity growth.
@@ -56,7 +56,7 @@ Notes:
 
 ## Overall..
 
- ![EfficiencyNotations](./EfficiencyNotations.png)
+ ![EfficiencyNotations](./efficiency_notations.png)
 
 
 
@@ -75,12 +75,15 @@ There are two types of Linked List - ***Singly*** and **Doubly**.
 - **Current** - The Current is a reference of type `Node` to the node that is currently being looked at. [2]
 
 
+
+
+
 **For more on the subject of _Linked Lists_, refer to the following articles titled *'What’s a Linked List, Anyway?'* at `medium.com`**
  - [Part1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
  - [Part2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 
 
-
+<br/>
 
 ## I want to learn more about
  - Traversal
