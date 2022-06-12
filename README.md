@@ -25,3 +25,5 @@
 | 31-5-2022 | Tests, Recursion, Main script | https://canvas.instructure.com/courses/4839248/discussion_topics/14886137 | [more](./Pages/Day%202/reading.md) |
 | June 5th. 2020 | Files & Exceptions | https://canvas.instructure.com/courses/4839248/discussion_topics/14886136 | [more](./Pages/Day%203/D_3_Files_and_Exceptions) |
 | Day 4 - June 7th. 2022 | Classes, Objects & Recursion | https://canvas.instructure.com/courses/4839248/discussion_topics/14886144 | [more](./Pages/day_4/calsses_and_objects.md) |
+| Thursday 2 - June 9th. 2022 | Linked Lists & Bog O(oh) | https://canvas.instructure.com/courses/4839248/discussion_topics/14886172 | [more](./Pages/day_5/linked_lists.md) |
+| Jun. 12th. 2022 | Games | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886138) | [more](./Pages/day_6/ten_thousand_game_1.md) |
