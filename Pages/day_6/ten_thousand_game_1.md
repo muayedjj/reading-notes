@@ -118,6 +118,11 @@ To know you are doing enough testing if the following is true:
 Again the value of coverage analysis is that it helps you find which bits of your code aren't being tested.
 
 
+## Things I want to know more about:
+1. Dynamic Testing.
+2. Random mudule functions and advanced mathematical usage.
+
+
 
 [1]: https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python
 [2]: https://www.edureka.co/blog/risk-analysis-in-software-testing/
