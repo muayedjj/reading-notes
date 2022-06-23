@@ -124,4 +124,4 @@ _In probability, the normal distribution is a particular distribution of the pro
 
 [3]: https://dbader.org/blog/python-repr-vs-str
 
-[4]: 
+[4]: https://www.dataquest.io/blog/basic-statistics-in-python-probability/
