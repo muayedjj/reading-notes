@@ -64,7 +64,7 @@ Data types additionally end with a suffix that indicates how many bits of memory
 1. NumPy different data types.
 2. Python's Data Model.
 3. NumPy different data types.
-4. Multidimentional Arrays.
+4. Multidimentional Arrays. 
 
 
 
