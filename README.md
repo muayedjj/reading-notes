@@ -28,3 +28,4 @@
 | Thursday 2 - June 9th. 2022 | Linked Lists & Bog O(oh) | https://canvas.instructure.com/courses/4839248/discussion_topics/14886172 | [more](./Pages/day_5/linked_lists.md) |
 | Jun. 12th. 2022 | Games | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886138) | [more](./Pages/day_6/ten_thousand_game_1.md) |
 | June 26th. 2022 | NumPy | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886143) | [more](./Pages/class_11/num_py.md) |
+| June 28th. 2022 | Pandas | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886151) | [more](./Pages/day_12/pandas_py_lib.md) |
