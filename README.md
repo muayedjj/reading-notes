@@ -31,4 +31,4 @@
 | June 28th. 2022 | Pandas | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886151) | [more](./Pages/day_12/pandas_py_lib.md) |
 | June 29th. 2022 | Linear Regressions | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886145) | [more](./Pages/day_13/linear_regressions.md)
 | June 30th. 2022 | Matplotlib | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886152) | [more](./Pages/day-14/matplotlib.md)
- 
+| June 30th. 2022 | Matplotlib | [Resources---](https://canvas.instructure.com/courses/4839248/discussion_topics/14886153) | [more](./Pages/day_15/Trees.md)

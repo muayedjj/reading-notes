@@ -158,8 +158,8 @@ Because of the lack of organizational structure in a Binary Tree, the worst case
 
 
 
-**For more on the subject of _Trees_, refer to the following article titled *'Implementation: Trees'* at `Codefellows.github`**
- - [Implementation: Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html
+**For more on the subject of _Trees_, refer to the following article titled *`Implementation: Trees`* at `Codefellows.github`**
+ - [Implementation: Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
  
 
 
