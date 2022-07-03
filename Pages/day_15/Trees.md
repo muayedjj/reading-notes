@@ -171,5 +171,5 @@ Because of the lack of organizational structure in a Binary Tree, the worst case
  
 
 
-[1]: 
+[1]: https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html
 [2]: 
