@@ -32,4 +32,5 @@
 | June 29th. 2022 | Linear Regressions | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886145) | [more](./Pages/day_13/linear_regressions.md)
 | June 30th. 2022 | Matplotlib | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886152) | [more](./Pages/day_14/matplotlib.md)
 | July 3rd. 2022 | Trees | [Resources](https://canvas.instructure.com/courses/4839248/assignments/30188526) | [more](./Pages/day_15/Trees.md)
-| June 30th. 2022 | Serverless | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886153) | [more](Pages/day_16/Serverless.md)
+| July 4th. 2022 | Serverless | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886153) | [more](Pages/day_16/Serverless.md)
+| July 5th. 2022 | Web Scraping | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886154) | [more](Pages/day_17/web_scraping.md)
