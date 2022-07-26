@@ -38,3 +38,6 @@
 | July 4th. 2022 | Serverless | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886153) | [more](Pages/day_16/Serverless.md)
 | July 5th. 2022 | Web Scraping | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886154) | [more](Pages/day_17/web_scraping.md)
 | July 6th. 2022 | Web Scraping | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886155) | [more](Pages/day_18/Encryption.md)
+| Jul. 24th. 2022 | Itro To Django | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886147) |  [more](Pages/class_26/intro_to_django.md) |
+| Jul. 26th. 2022 | Django Models | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886148) |  [more](Pages/class_27/django_models.md) |
+
