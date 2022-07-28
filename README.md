@@ -40,4 +40,4 @@
 | July 6th. 2022 | Web Scraping | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886155) | [more](Pages/day_18/Encryption.md)
 | Jul. 24th. 2022 | Itro To Django | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886147) |  [more](Pages/class_26/intro_to_django.md) |
 | Jul. 26th. 2022 | Django Models | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886148) |  [more](Pages/class_27/django_models.md) |
-
+| Jul. 28th. 2022 | Django CRUD & Forms | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886149) |  [more](Pages/class_28/django_forms_and_crud.md) |
