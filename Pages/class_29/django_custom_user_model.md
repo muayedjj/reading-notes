@@ -79,6 +79,8 @@ It's helpful to create a superuser that we can use to log in to the admin and te
 
 **2. Cleaning data.**
 
+**3. Custom user model options.**
+
+**4.  Django security.**
 
 [1]: https://learndjango.com/tutorials/django-custom-user-model
-
