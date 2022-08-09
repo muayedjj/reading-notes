@@ -33,7 +33,7 @@ And the container is the actual, baked cake. [1]
 - docker-compose.yml: list of container instructions. 
 - docker-compose.yml controls how to run the container.
 
-
+#
 
 ## Django for APIs - Library Website
 - Django REST Framework can only be added after Django project has already been initialized. 
