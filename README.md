@@ -17,11 +17,11 @@
 
 | Day/Date | Subject | Resources | Remarks |
 | -------- | ------- | --------- | ------- |
-| May 26th 2022 | Python | [Resources](https://www.sololearn.com) | Python Core (new) - [more](./Pages/assets/cert-25901784-1073.png) |
-| May 26th 2022 | MD features | [Resources](https://www.markdownguide.org/extended-syntax/) | Revision |
+| May 26th 2022 | Python | [Resources](https://www.sololearn.com) | _Python Core (new)_ - [more](./Pages/assets/cert-25901784-1073.png) |
+| May 26th 2022 | MD features | [Resources](https://www.markdownguide.org/extended-syntax/) | _Revision_ |
 | May 26th 2022 | The Command Line | [Resources](https://ryanstutorials.net/linuxtutorial/) | [more](./Pages/CLI.md) |
 | May 27th 2022 | SQL | [Resources](https://sqlbolt.com/) | [more](./Pages/SQL.md) |
-| Day 1 - May 29th. 2022| Big **(O)** Notation, Python Names & Values | Resources:   [1](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)   [2](https://www.youtube.com/watch?v=_AEJHKGk9ns) | [more](./Pages/Day1.md)] |
+| Day 1 - May 29th. 2022| Big **(O)** Notation, Python Names & Values | Resources:   [1](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)   [2](https://www.youtube.com/watch?v=_AEJHKGk9ns) | [more](./Pages/Day1.md) |
 | 31-5-2022 | Tests, Recursion, Main script | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886137) | [more](./Pages/Day%202/reading.md) |
 | June 5th. 2020 | Files & Exceptions | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886136) | [more](./Pages/Day%203/D_3_Files_and_Exceptions) |
 | Day 4 - June 7th. 2022 | Classes, Objects & Recursion | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886144) | [more](./Pages/day_4/calsses_and_objects.md) |
@@ -44,3 +44,4 @@
 | Jul. 31st. 2022 | Django Custom User Model | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886150) |  [more](Pages/class_29/django_custom_user_model.md) |
 | Aug. 2nd. 2022 | Hash Tables | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886169) |  [more](Pages/class_30/hash_tables.md) |
 | Aug. 9th. 2022 | Docker & Django REST Framework | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886156) |  [more](Pages/class_31/docker_and_django_rest_fw.md) |
+| Aug. 11th. 2022 | # Permissions & Postgresql | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886159) |  [more](Pages/class_32/permissions_and_postgresql.md) |
