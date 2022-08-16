@@ -69,9 +69,7 @@ If you wish to use the provided permission classes in order to check object perm
     - DjangoObjectPermissions does not require the django-guardian package.
 
 
-Form more on the subject, check this coprehensive article on [Django REST framework](www.django-rest-framework.org)
-
-
+For more on the subject, check this coprehensive article on [Django REST framework](www.django-rest-framework.org)
 
 <br/>
 
@@ -88,12 +86,6 @@ Form more on the subject, check this coprehensive article on [Django REST framew
 ## Things I wanna learn more about:
 1. SQL.
 2. Querysets.
-
-
-
-
-
-
 
 
 [1]: https://www.django-rest-framework.org/api-guide/permissions/
