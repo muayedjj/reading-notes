@@ -45,3 +45,5 @@
 | Aug. 2nd. 2022 | Hash Tables | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886169) |  [more](Pages/class_30/hash_tables.md) |
 | Aug. 9th. 2022 | Docker & Django REST Framework | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886156) |  [more](Pages/class_31/docker_and_django_rest_fw.md) |
 | Aug. 11th. 2022 | Permissions & Postgresql | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886159) |  [more](Pages/class_32/permissions_and_postgresql.md) |
+| -------- | ------- | --------- | ------- |
+| Aug. 16th. 2022 | API Deployment | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886157) |  [more](Pages/class_34/api_deployment.md) |
