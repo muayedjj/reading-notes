@@ -47,3 +47,6 @@
 | Aug. 11th. 2022 | Permissions & Postgresql | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886159) |  [more](Pages/class_32/permissions_and_postgresql.md) |
 | -------- | ------- | --------- | ------- |
 | Aug. 16th. 2022 | API Deployment | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886157) |  [more](Pages/class_34/api_deployment.md) |
+| -------- | ------- | --------- | ------- |
+| -------- | ------- | --------- | ------- |
+| Aug. 16th. 2022 | React 1 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886162) |  [more](Pages/class_37/react_1.md) |
