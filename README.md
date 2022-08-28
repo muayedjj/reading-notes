@@ -49,4 +49,5 @@
 | Aug. 16th. 2022 | API Deployment | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886157) |  [more](Pages/class_34/api_deployment.md) |
 | -------- | ------- | --------- | ------- |
 | -------- | ------- | --------- | ------- |
-| Aug. 16th. 2022 | React 1 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886162) |  [more](Pages/class_37/react_1.md) |
+| Aug. 23rd. 2022 | React 1 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886162) |  [more](Pages/class_37/react_1.md) |
+| Aug. 28th. 2022 | React 2 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886163) |  [more](Pages/class_38/react_2.md) |
