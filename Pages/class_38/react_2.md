@@ -1,5 +1,7 @@
 # [React 2](https://canvas.instructure.com/courses/4839248/discussion_topics/14886163)
 
+# For the **ultimate** guide to learn React from front to back, _check out_ [The React Bootcamp](https://reactbootcamp.com/).
+
 ### [Learn React! ^^](https://ui.dev/classic-react)
 
 ### [HeroIcons ><](https://heroicons.com/)
