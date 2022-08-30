@@ -74,6 +74,13 @@ The beauty of this thing called tailwind is it doesn’t impose design specifica
 
 ### After skimming through the resources, I can say confidently that I plan to come back to each one for a more extensive look, as they all seem very interesting even though they are full of content.
 
+<br/>
+
+## For the **ultimate** guide to learn React from front to back, _check out_ [The React Bootcamp](https://reactbootcamp.com/).
+
+<br/>
+
+<br/>
 
 ## Things I want to learn more about:
 1. Tailwind CSS

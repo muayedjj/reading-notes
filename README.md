@@ -51,3 +51,4 @@
 | -------- | ------- | --------- | ------- |
 | Aug. 23rd. 2022 | React 1 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886162) |  [more](Pages/class_37/react_1.md) |
 | Aug. 28th. 2022 | React 2 | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886163) |  [more](Pages/class_38/react_2.md) |
+| Aug. 30th. 2022 | React 3 (**useConext**) | [Resources](https://canvas.instructure.com/courses/4839248/discussion_topics/14886161) |  [more](Pages/class_39/react_3.md) |
